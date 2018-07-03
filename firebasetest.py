@@ -1,7 +1,7 @@
 from firebase import firebase
 
 firebase = firebase.FirebaseApplication('link to your firebase database')
-firebase = firebase.FirebaseApplication('link two database goes here ')
+
 
 
 # writing to firebase
